@@ -1,1 +1,2 @@
-bgs $HOME/Pictures/wallpapers/default/wall &
+feh ~/Pictures/wallpapers/default/wall --bg-fill --no-fehbg &
+dropbox &
